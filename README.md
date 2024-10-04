@@ -1,4 +1,4 @@
-Аскинема для lr2_php_game
+![image](https://github.com/user-attachments/assets/8ddad4fb-ca95-40e8-b7fd-3563afb6542a)Аскинема для lr2_php_game
 
 НОК
 
@@ -82,3 +82,8 @@
 [60.936604, "o", "t"]
 [61.348886, "o", "\r\n\u001b[?2004l\r"]
 [61.349737, "o", "exit\r\n"]
+
+
+
+
+![image](https://github.com/user-attachments/assets/586e7c81-0df6-48ff-b817-8735818ffad2)
