@@ -1,5 +1,5 @@
-Аскинема для lr2_php_game
-
+#Аскинема для lr2_php_game
+##НОК
 {"version": 2, "width": 199, "height": 13, "timestamp": 1728058608, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
 [0.02834, "o", "\u001b[?2004h\u001b]0;kotleta@kotleta: /usr/local/go/src/lr2_php_game\u0007\u001b[01;32mkotleta@kotleta\u001b[00m:\u001b[01;34m/usr/local/go/src/lr2_php_game\u001b[00m$ "]
 [2.338401, "o", "php \"/usr/local/go/src/lr2_php_game/main.php\"\r\n\u001b[?2004l\r"]
