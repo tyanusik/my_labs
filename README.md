@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/8ddad4fb-ca95-40e8-b7fd-3563afb6542a)Аскинема для lr2_php_game
+![image](https://github.com/user-attachments/assets/8ddad4fb-ca95-40e8-b7fd-3563afb6542a)
+
+Аскинема для lr2_php_game
 
 НОК
 
